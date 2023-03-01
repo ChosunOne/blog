@@ -1,1 +1,1 @@
-
+Welcome to my blog!  Here I will post collections of thoughts on various topics from time to time.  There might not be a unifying theme or anything aside from writing what I consider to be interesting for myself.  Enjoy!
