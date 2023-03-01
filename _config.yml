@@ -2,3 +2,4 @@ theme: minima
 title: "ChosunOne's Blog"
 author: "ChosunOne"
 description: "Collection of ChosunOne's thoughts"
+markdown: GFM
