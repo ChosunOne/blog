@@ -4,3 +4,4 @@ author: "ChosunOne"
 description: "Collection of ChosunOne's thoughts"
 markdown: GFM
 timezone: Asia/Seoul
+baseurl: https://chosunone.github.io/blog
