@@ -1,0 +1,17 @@
+name: Generate sitemap
+
+on:
+  push:
+    branches: [ main ]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+      - name: Generate sitemap
+        uses: cicirello/generate-sitemap@v1.0.0
+        with:
+          format: xml # or txt
+          output-file-name: sitemap.xml # or sitemap.txt
