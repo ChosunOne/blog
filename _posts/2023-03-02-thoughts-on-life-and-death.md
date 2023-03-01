@@ -27,7 +27,7 @@ Another more bizarre but theoretically possible situation is where the random mo
 
 But the main point of these examples is to demonstrate that being dead for a while doesn't guarantee that you stay that way forever.  In fact, the opposite might be true.  No matter how many times you die, your subjective experience will always be transported to the next moment where you are no longer dead.
 
-![life state diagram](./images/2023-03-02/life_state_diagram.png)
+![life state diagram](/blog/images/2023-03-02/life_state_diagram.png)
 
 The above diagram shows Subjective Experience requiring being alive.  
 
