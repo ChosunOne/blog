@@ -4,6 +4,6 @@ author: "ChosunOne"
 description: "Collection of ChosunOne's thoughts"
 markdown: GFM
 timezone: Asia/Seoul
-url: https://chosunone.github.io/blog
+url: https://chosunone.github.io
 plugins:
   - jekyll-sitemap
