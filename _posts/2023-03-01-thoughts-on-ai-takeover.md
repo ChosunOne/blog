@@ -1,5 +1,5 @@
 ---
-title: "Thoughts on AI Takeover
+title: "Thoughts on AI Takeover"
 date: 2023-03-01
 ---
 
