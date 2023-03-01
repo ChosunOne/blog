@@ -15,6 +15,7 @@ jobs:
         with:
           format: xml # or txt
           output-file-name: sitemap.xml # or sitemap.txt
+          include-file-types: html htm md # add .md here
       - name: Create Pull Request
         uses: peter-evans/create-pull-request@v3
         with:
